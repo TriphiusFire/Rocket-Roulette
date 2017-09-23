@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+  "name": "Rocket Roulette",
+  "version": "0.1",
+  "content_scripts": [
+    {
+      "matches": [
+        "https://www.bitsler.com/play/roulette/btc"
+      ],
+      "js": ["jquery-3.2.1.min.js", "content.js"]
+    }
+  ]
+}
