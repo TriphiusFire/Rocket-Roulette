@@ -18,3 +18,6 @@ Downloading and using means you agree that you assume all risk/liability for the
 *** I was BANNED from bitsler for winning too much hahahaha!
 when i try to log on there is a message saying "don't you think you have enough?" and it won't let me onto the site
 wow, if an amateur like me can take too much from the casino (and it was less than $200 profit) and get banned for it i have to say this company is both stupid and unethical.  BITSLER WILL KICK YOU OUT UNLESS IF YOU DON'T LOSE
+
+*** another update ***
+It gets even funnier, not long after posting that I was banned here, I am no longer banned and find that their roullete section is "under maintenaince" I'm never using Bitsler again.  ta ta suckers. 
